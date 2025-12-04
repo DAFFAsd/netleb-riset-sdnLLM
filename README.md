@@ -23,6 +23,7 @@ Aplikasi ini menyediakan REST API endpoint yang memungkinkan eksekusi command pa
 - Pydantic
 - Uvicorn (untuk menjalankan server)
 - Mininet VM running
+  
   ![image](https://hackmd.io/_uploads/ByE-n0Ab-l.png)
 
 
