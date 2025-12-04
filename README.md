@@ -22,6 +22,9 @@ Aplikasi ini menyediakan REST API endpoint yang memungkinkan eksekusi command pa
 - Paramiko
 - Pydantic
 - Uvicorn (untuk menjalankan server)
+- Mininet VM running
+  <img width="331" height="314" alt="image" src="https://github.com/user-attachments/assets/8c6fae0b-c73c-4cf6-98e7-a499519c8957" />
+
 
 ## Instalasi
 
