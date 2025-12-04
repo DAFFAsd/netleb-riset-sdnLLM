@@ -140,5 +140,10 @@ Setiap request akan mengembalikan object dengan field:
 | exit_status | integer | Exit code dari command (0 = sukses) |
 | success | boolean | true jika exit_status = 0 |
 
-## Testing
+## Testing Dengan LLM
+
+<img width="744" height="589" alt="image" src="https://github.com/user-attachments/assets/d8c93b8c-06af-4561-951f-d04e6a75ace4" />
+<img width="732" height="600" alt="image" src="https://github.com/user-attachments/assets/3172538a-f8de-4b51-b18c-5450db82e60e" />
+
+
 
